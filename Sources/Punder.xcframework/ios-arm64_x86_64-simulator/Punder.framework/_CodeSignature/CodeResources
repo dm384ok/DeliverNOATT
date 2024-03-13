@@ -4,17 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
-		<data>
-		3fhV8tgJSubLzcBi76AFLLBv5rI=
-		</data>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
-		</data>
 		<key>Headers/Punder-Swift.h</key>
 		<data>
-		lqA2mI6rQSt+pFVo/vq2h6qoqss=
+		M1kgiB2TB8a2szDW234Fe+NLSk8=
 		</data>
 		<key>Headers/Punder.h</key>
 		<data>
@@ -26,11 +18,11 @@
 		</data>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		g8thoE1lfIKWW1kAn0gGVwT/z4k=
+		NcqPRgdTu3MFMWcZQW5oLwcxt4Y=
 		</data>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wRUxF1I1Jeq/ZWO0nDcrfpqMlIU=
+		YkEpYS3mlhO2JzJiaEkVjQuXPtA=
 		</data>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +30,19 @@
 		</data>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wRUxF1I1Jeq/ZWO0nDcrfpqMlIU=
+		YkEpYS3mlhO2JzJiaEkVjQuXPtA=
 		</data>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rdxYZusP6pPSaXWjXEiMP6DVZKg=
+		kmzEBBpBlJPMxJ5EvkF2Nn79OrI=
 		</data>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		g8thoE1lfIKWW1kAn0gGVwT/z4k=
+		NcqPRgdTu3MFMWcZQW5oLwcxt4Y=
 		</data>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		41Yi/qu2kxQ8L0I3VSA0ELjhjVU=
+		D3igg/mIBFKRmSJ+L0B5VaH/X8A=
 		</data>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +50,11 @@
 		</data>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		41Yi/qu2kxQ8L0I3VSA0ELjhjVU=
+		D3igg/mIBFKRmSJ+L0B5VaH/X8A=
 		</data>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		s9sw9tWiyjSTFAsl1tiECkTGKCM=
+		kRke2kFNkUka4+jTkxiL2KH7Wow=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,30 +62,16 @@
 		</data>
 		<key>aa.json</key>
 		<data>
-		0lRfAKgHjs8l8GUNMflyoIZpUnw=
+		mJBwIrbkUTE1hhCthPG26If6hoI=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NSf8QoskU5RznmAcJL98LObDYSJyKZRMZsdymWqlyos=
-			</data>
-		</dict>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
-			</data>
-		</dict>
 		<key>Headers/Punder-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BOwzDLyL71q01hs0LJBNz10PV2v+84SlVmmf+fj2xYM=
+			fq6uPWGmGIHG0QgV4WSPppXPAvSY7LnMGb4ur6dWbLY=
 			</data>
 		</dict>
 		<key>Headers/Punder.h</key>
@@ -107,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HcQ/Yzg5bpCIJB8kybcb25ldghEr/IM427WX89bGGPc=
+			WBMfHfi3Frx1U24+46ktxSHgKu91v0y/0bKqKK1lwKc=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pSPEszWQvCnHo1xz6UEjJa1bPpevbg6ZoZag35Snwig=
+			aK4rNHjibqg4mxdbgbsvpWjJ6NCCY9aa5fo/vXNJL8Q=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -128,28 +106,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pSPEszWQvCnHo1xz6UEjJa1bPpevbg6ZoZag35Snwig=
+			aK4rNHjibqg4mxdbgbsvpWjJ6NCCY9aa5fo/vXNJL8Q=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZOisUWNoulJAPCf+hztZE8ffjoDgGN8CU8F5AKq/qJc=
+			AEUCkJHcmcw4vb/TQT1VUqDfG+27JZtqTLqSYESmUdM=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HcQ/Yzg5bpCIJB8kybcb25ldghEr/IM427WX89bGGPc=
+			WBMfHfi3Frx1U24+46ktxSHgKu91v0y/0bKqKK1lwKc=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gN4Fo0BVlgkAbMmAuSHsqorKsAZsyAhgLVb2IIqEHMs=
+			RRwxf7kswmCbLyi575HDHZys1e2496RvM8GI/FqOHiQ=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -163,14 +141,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gN4Fo0BVlgkAbMmAuSHsqorKsAZsyAhgLVb2IIqEHMs=
+			RRwxf7kswmCbLyi575HDHZys1e2496RvM8GI/FqOHiQ=
 			</data>
 		</dict>
 		<key>Modules/Punder.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDT9xC3n9NTdDrfYDcs382eQPttDrf446DpiHgKJThE=
+			UpxCvEIvlftKtMP0XwE5Udj9jUeWeueZ4nsEUNDdogM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -184,7 +162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iEkXMKd00S2tYpbJZzOgOh3Mv7SHK+oD3c+vzp68pP0=
+			Ta5ne7eRMHSMRBvOORQWuPpEcYbYyaDbDmUwNzm5gkg=
 			</data>
 		</dict>
 	</dict>

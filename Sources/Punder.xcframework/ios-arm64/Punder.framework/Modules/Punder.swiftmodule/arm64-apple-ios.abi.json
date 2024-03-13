@@ -107,22 +107,15 @@
       },
       {
         "kind": "Import",
+        "name": "FacebookCore",
+        "printedName": "FacebookCore",
+        "declKind": "Import",
+        "moduleName": "Punder"
+      },
+      {
+        "kind": "Import",
         "name": "FirebaseAnalytics",
         "printedName": "FirebaseAnalytics",
-        "declKind": "Import",
-        "moduleName": "Punder"
-      },
-      {
-        "kind": "Import",
-        "name": "FirebaseAuth",
-        "printedName": "FirebaseAuth",
-        "declKind": "Import",
-        "moduleName": "Punder"
-      },
-      {
-        "kind": "Import",
-        "name": "FBSDKCoreKit",
-        "printedName": "FBSDKCoreKit",
         "declKind": "Import",
         "moduleName": "Punder"
       },
@@ -432,28 +425,28 @@
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "Dictionary",
-      "offset": 815,
+      "offset": 795,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "StringLiteral",
-      "offset": 1994,
+      "offset": 1974,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "BooleanLiteral",
-      "offset": 7011,
+      "offset": 6991,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "StringLiteral",
-      "offset": 15913,
+      "offset": 17731,
       "length": 27,
       "value": "\"Punder.AppsFlyerLibDelegateWrapper\""
     }

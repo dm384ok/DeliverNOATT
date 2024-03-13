@@ -9,9 +9,8 @@ import AppsFlyerLib
 import ConfigCat
 import CoreAudioTypes
 import Disk
-import FBSDKCoreKit
+import FacebookCore
 import FirebaseAnalytics
-import FirebaseAuth
 import FirebaseCore
 import Foundation
 import Lottie

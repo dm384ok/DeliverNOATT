@@ -19,8 +19,6 @@ let package = Package(
         .package(
             url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", from: "6.9.0"),
         .package(
-            url: "https://github.com/facebook/facebook-ios-sdk.git", branch: "main"),
-        .package(
             url: "https://github.com/OneSignal/OneSignal-iOS-SDK",  branch: "main"),
         .package(
             url: "https://github.com/airbnb/lottie-ios", from: "4.3.4")
@@ -38,11 +36,7 @@ let package = Package(
                 .product(name: "OneSignalInAppMessages", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalLocation", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalExtension", package: "OneSignal-iOS-SDK"),
-
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
-                .product(name: "FacebookCore", package: "facebook-ios-sdk"),
-                .product(name: "FacebookAEM", package: "facebook-ios-sdk"),
-                
                 .product(name: "Lottie", package: "lottie-ios"),
             ]
         ),
