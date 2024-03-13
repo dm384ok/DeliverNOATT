@@ -21,7 +21,9 @@ let package = Package(
         .package(
             url: "https://github.com/OneSignal/OneSignal-iOS-SDK",  branch: "main"),
         .package(
-            url: "https://github.com/airbnb/lottie-ios", from: "4.3.4")
+            url: "https://github.com/airbnb/lottie-ios", from: "4.3.4"),
+        .package(
+            url: "https://github.com/facebook/facebook-ios-sdk.git", branch: "main"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -38,6 +40,9 @@ let package = Package(
                 .product(name: "OneSignalExtension", package: "OneSignal-iOS-SDK"),
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
                 .product(name: "Lottie", package: "lottie-ios"),
+
+                .product(name: "FacebookCore", package: "facebook-ios-sdk"),
+                .product(name: "FacebookAEM", package: "facebook-ios-sdk"),
             ]
         ),
         
