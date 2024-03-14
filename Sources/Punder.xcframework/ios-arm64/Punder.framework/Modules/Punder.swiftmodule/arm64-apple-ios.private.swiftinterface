@@ -4,7 +4,6 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import AdSupport
-import AppTrackingTransparency
 import AppsFlyerLib
 import ConfigCat
 import CoreAudioTypes

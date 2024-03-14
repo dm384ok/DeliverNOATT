@@ -58,13 +58,6 @@
       },
       {
         "kind": "Import",
-        "name": "AppTrackingTransparency",
-        "printedName": "AppTrackingTransparency",
-        "declKind": "Import",
-        "moduleName": "Punder"
-      },
-      {
-        "kind": "Import",
         "name": "AVKit",
         "printedName": "AVKit",
         "declKind": "Import",
@@ -425,28 +418,28 @@
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "Dictionary",
-      "offset": 795,
+      "offset": 764,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "StringLiteral",
-      "offset": 1974,
+      "offset": 1943,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "BooleanLiteral",
-      "offset": 6991,
+      "offset": 6919,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Amplitude.swift",
       "kind": "StringLiteral",
-      "offset": 17731,
+      "offset": 17223,
       "length": 27,
       "value": "\"Punder.AppsFlyerLibDelegateWrapper\""
     }
