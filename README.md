@@ -14,8 +14,6 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
 
-> NSUserTrackingUsageDescription : Select "Allow" for better experience. This identifier will be used to  order to functionalities and user engagement.
-
 > NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
 > NSCameraUsageDescription : Select "Allow" for better experience. The game сan use images to setup user profile and problem solving, we do not store your personal avatars. 
