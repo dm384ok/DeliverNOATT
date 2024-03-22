@@ -3,7 +3,7 @@ Deliver - tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/Deliver](https://github.com/dm384ok/Deliver)
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/DeliverNOATT](https://github.com/dm384ok/DeliverNOATT)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
